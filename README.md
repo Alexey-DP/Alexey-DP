@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn.ttgtmedia.com/rms/onlineimages/code_g1019737194.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi there 👋, I'm I'm Alexey</h1>
+<h1 align="center">Hi there 👋, I'm Alexey</h1>
 <h3 align="center">JavaScript developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg"/>
 
